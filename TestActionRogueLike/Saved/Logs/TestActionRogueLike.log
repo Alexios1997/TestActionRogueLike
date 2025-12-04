@@ -1549,3 +1549,9 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2025.12.04-02.30.08:172][590]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 230650.17 ms.
 [2025.12.04-02.30.09:226][590]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 231703.47 ms.
 [2025.12.04-02.30.09:774][590]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 231286.45 ms.
+[2025.12.04-02.33.05:178][590]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 407648.47 ms.
+[2025.12.04-02.37.06:576][590]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 649036.31 ms.
+[2025.12.04-02.37.27:414][590]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 669653.56 ms.
+[2025.12.04-02.37.32:688][590]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.04-02.37.35:218][590]LogExit: Exiting.
+[2025.12.04-02.37.35:988][590]Log file closed, 12/04/25 04:37:35
